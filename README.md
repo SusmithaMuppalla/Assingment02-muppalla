@@ -14,4 +14,16 @@
   ## Things to explore the museum
   * there is a charminar near the museum to explore which was built long time ago.
   * there is imax complex beside NTR gardens which is opposite to tank bund to watch movies and playing games.
+
   
+[AboutMe.md](AboutMe.md)
+
+***
+##### Tables
+Table related to city, tourist place, timings
+| City | Famous places| Time |
+|------|---------|----------|
+| guntur | Cakshmipuram| 1 hr|
+| vijayawada | M.g.road | 3 hr |
+| hyderabad | jublie hills | 3 hr |
+| vizag | araku | 5 days |
