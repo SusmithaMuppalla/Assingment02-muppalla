@@ -5,8 +5,9 @@
 
 ***
 ##### Transport from airport
-  1.After departure the flight  from "RAJIV GANDHI INTERNATIONAL AIRPORT" .
-  2.Book a car through zoom cars.
+  
+  1. After departure the flight  from "RAJIV GANDHI INTERNATIONAL AIRPORT" .
+  2. Book a car through zoom cars.
   3. It takes 40 minutes to the museum by car.
   * Tank bund
   * NTR gardens
