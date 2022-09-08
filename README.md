@@ -27,3 +27,10 @@ Table related to city, tourist place, timings
 | vijayawada | M.g.road | 3 hr |
 | hyderabad | jublie hills | 3 hr |
 | vizag | araku | 5 days |
+
+***
+##### Pithy Quotes
+> "it always seems impossible until it is done"- *nelson mandela*
+
+> "practise makes man perfect"-*A.P.J.Kalam*
+
