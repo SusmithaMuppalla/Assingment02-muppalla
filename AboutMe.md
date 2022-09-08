@@ -1,0 +1,2 @@
+# Susmitha Muppalla
+I am from india. i comppleted my BTech in electronics and communication engineering  in chebrolu engineering college afflited .Present i am hear to pursue my master's in Applied computer science.i am an introvert .presently i am staying in maryville,missouri state,USA.
