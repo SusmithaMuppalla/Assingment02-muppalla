@@ -34,3 +34,21 @@ Table related to city, tourist place, timings
 
 > "practise makes man perfect"-*A.P.J.Kalam*
 
+***
+### Code Fencing
+
+> How do i add multiple inputs?
+
+
+[Question](https://stackoverflow.com/questions/71470544/how-do-i-add-multiple-inputs)
+
+```
+
+<form method="post" action="upload.php" enctype="multipart/form-data">
+  <input name='uploads[]' type="file" multiple>
+  <input type="submit" value="Send">
+</form>
+
+```
+
+[Code Snippet](https://css-tricks.com/snippets/html/multiple-file-input/)
