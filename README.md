@@ -11,3 +11,7 @@
   3. It takes 40 minutes to the museum by car.
   * Tank bund
   * NTR gardens
+  ## Things to explore the museum
+  * there is a charminar near the museum to explore which was built long time ago.
+  * there is imax complex beside NTR gardens which is opposite to tank bund to watch movies and playing games.
+  
